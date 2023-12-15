@@ -17,6 +17,7 @@
     appearance: none;
     outline: none;
     padding: 0 2.5rem 0 3.5rem;
+    font-size: 1rem;
 }
 
 .search-todo:focus {
