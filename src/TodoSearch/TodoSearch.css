@@ -5,7 +5,7 @@
     margin: 1rem;
 }
 
-.searchTodo {
+.search-todo {
     display: flex;
     text-align: center;
     width: 100%; 
@@ -19,11 +19,11 @@
     padding: 0 2.5rem 0 3.5rem;
 }
 
-.searchTodo:focus {
+.search-todo:focus {
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.15);
 }
 
-.searchIcon {
+.search-icon {
     position: absolute;
     top: 50%;
     left: 10px; 

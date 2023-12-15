@@ -32,5 +32,10 @@ main {
         padding: 2rem;
         border-radius: 2rem;
     }
+
+    main {
+        width: 100%;
+        max-width: 100%;
+    }
     
 }
