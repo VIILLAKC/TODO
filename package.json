@@ -29,9 +29,11 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://viillakc.github.io/TODO"
+    ]
   },
+  
+  "homepage": "https://viillakc.github.io/TODO",
+
   "devDependencies": {
     "gh-pages": "^6.1.0"
   }
