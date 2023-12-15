@@ -5,7 +5,7 @@ import './TodoSearch.css';
 function TodoSearch() {
   const { searchValue, setSearchValue } = React.useContext(TodoContext);
     return (
-      <div className="searchContainer">
+      <div className="search-container">
         <input className="searchTodo" 
           placeholder="Cebolla" 
           value={searchValue}
